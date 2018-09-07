@@ -1,5 +1,5 @@
 # circle-ci-test
-[![CircleCI](https://circleci.com/gh/dnvriend/akka-persistence-inmemory/tree/master.svg?style=svg)](https://circleci.com/gh/dnvriend/akka-persistence-inmemory/tree/master)
+[![CircleCI](https://circleci.com/gh/dnvriend/circle-ci-test/tree/master.svg?style=svg)](https://circleci.com/gh/dnvriend/circle-ci-test/tree/master)
 
 A small study project on how to configure circle ci with tag/branch commit and behavior
 
